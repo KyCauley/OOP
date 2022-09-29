@@ -1,4 +1,5 @@
 myvenv/
+_pycache_/
 BankAccountClass.py
 BankAccountProgram.py
 Cellphone_test.py
@@ -7,4 +8,4 @@ Coin Toss.py
 CoinClass.py
 InsectClass.py
 InsectProgram.py
-pssObj.py
+passObj.py
